@@ -1,4 +1,4 @@
-var price = 10;
+let price = 10;
 price = price + 35;
 price += 5;
 price -= 5;
